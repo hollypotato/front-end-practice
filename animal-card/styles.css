@@ -7,14 +7,19 @@
   padding: 10px;
   margin: auto;
 }
-.image {
+img {
   padding-top: 10px;
   padding-bottom: 10px;
+  width: 300px;
+}
+span {
+  font-weight: bold;
+}
+p {
+  font-style: italic;
 }
 .copy {
-  border-style: solid;
-  border-color: lightgrey;
-  border-width: 0.3px;
+  border-style: solid lightgrey 0.3px;
   padding: 0px 10px;
 }
 .list {
